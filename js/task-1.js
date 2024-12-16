@@ -1,6 +1,6 @@
 // ✅
 const KEY = 'd859261edefb44feaa3134747241612';
-const URL = "http://api.weatherapi.com/v1";
+const URL = "https://api.weatherapi.com/v1";
 
 const form = document.querySelector("form");
 const list = document.querySelector(".js-list");
